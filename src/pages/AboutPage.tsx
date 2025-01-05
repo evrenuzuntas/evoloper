@@ -15,7 +15,7 @@ const AboutPage = () => {
 
   const technologies = ["React JS", "TypeScript", "JavaScript", "HTML & CSS", "Redux", "Mui", "Jira", "Git", "Figma", "Bitbucket", "Github", "Postman", "Azure", "SQL", "WordPress", "Miro", "ChatGPT"];
 
-  const interests = ["Commercial UAV (Drone) Pilot", "Certified Dog Groomer & Walker", "3D Printing and Epoxy", "Short Range Radio Operator", "Amateur Sailor", "Microcontroller Systems", "YouTube Content Creator", "English (B2)"];
+  const interests = ["Commercial UAV(Drone) Pilot", "Certified Dog Groomer & Walker", "3D Printing and Epoxy", "Short Range Radio Operator", "Amateur Sailor", "Microcontroller Systems", "YouTube Content Creator", "English (B2)"];
 
   const handleDownload = async () => {
     try {
